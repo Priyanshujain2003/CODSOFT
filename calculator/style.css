@@ -1,0 +1,29 @@
+      .container
+      {
+        background-color: black;
+        width: 250px;
+      }
+      .input2
+      {
+        padding: 5px;
+      }
+      .input
+      {
+        height: 5vh;
+        width: 35vh;
+      }
+      .btn
+      {
+        padding: 5px;
+      }
+      .btn1:hover
+      {
+         box-shadow: 5px 5px 8px #ffffff;
+      }
+      .btn1
+      {
+        padding: 15px;
+        transition: all 1s;
+      }
+      
+
